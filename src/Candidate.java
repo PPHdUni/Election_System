@@ -1,6 +1,6 @@
 public class Candidate {
 
-    String name,
+    private String name,
         party;
 
     public Candidate (String name, String party) {
